@@ -1,0 +1,352 @@
+{
+ "fps": 30,
+ "total": 3586,
+ "scenes": {
+  "routine": 212,
+  "darkmap": 314,
+  "ads": 212,
+  "question": 154,
+  "light": 262,
+  "calendar": 140,
+  "montage": 330,
+  "name": 130,
+  "predict": 180,
+  "boost": 306,
+  "climb": 96,
+  "crowd": 232,
+  "habit": 165,
+  "lit": 80,
+  "profit": 168,
+  "ending": 535,
+  "card": 70
+ },
+ "start": {
+  "routine": 0,
+  "darkmap": 212,
+  "ads": 526,
+  "question": 738,
+  "light": 892,
+  "calendar": 1154,
+  "montage": 1294,
+  "name": 1624,
+  "predict": 1754,
+  "boost": 1934,
+  "climb": 2240,
+  "crowd": 2336,
+  "habit": 2568,
+  "lit": 2733,
+  "profit": 2813,
+  "ending": 2981,
+  "card": 3516
+ },
+ "vo": [
+  {
+   "id": "b01_routine",
+   "scene": "routine",
+   "at": 12,
+   "tempo": 1,
+   "end": 206
+  },
+  {
+   "id": "b02_products",
+   "scene": "darkmap",
+   "at": 239,
+   "tempo": 1.04,
+   "end": 516
+  },
+  {
+   "id": "b03_ads",
+   "scene": "ads",
+   "at": 538,
+   "tempo": 1,
+   "end": 732
+  },
+  {
+   "id": "b04_question",
+   "scene": "question",
+   "at": 747,
+   "tempo": 1,
+   "end": 886
+  },
+  {
+   "id": "b05_passion",
+   "scene": "light",
+   "at": 922,
+   "tempo": 1,
+   "end": 1150
+  },
+  {
+   "id": "b06v2_kickoff",
+   "scene": "calendar",
+   "at": 1172,
+   "tempo": 1,
+   "end": 1285
+  },
+  {
+   "id": "b07_country",
+   "scene": "montage",
+   "at": 1303,
+   "tempo": 1,
+   "end": 1622
+  },
+  {
+   "id": "b08_inside",
+   "scene": "name",
+   "at": 1645,
+   "tempo": 1,
+   "end": 1746
+  },
+  {
+   "id": "b09v3_predict",
+   "scene": "predict",
+   "at": 1763,
+   "tempo": 1.08,
+   "end": 1923
+  },
+  {
+   "id": "b10v2_twist",
+   "scene": "boost",
+   "at": 1943,
+   "tempo": 1.12,
+   "end": 2230
+  },
+  {
+   "id": "b11_climb",
+   "scene": "climb",
+   "at": 2246,
+   "tempo": 1.08,
+   "end": 2335
+  },
+  {
+   "id": "b12v3_players",
+   "scene": "crowd",
+   "at": 2345,
+   "tempo": 1.08,
+   "end": 2469
+  },
+  {
+   "id": "b12b_predictions",
+   "scene": "crowd",
+   "at": 2482,
+   "tempo": 1.08,
+   "end": 2562
+  },
+  {
+   "id": "b13v2_opens",
+   "scene": "habit",
+   "at": 2577,
+   "tempo": 1.08,
+   "end": 2730
+  },
+  {
+   "id": "b14v2_found",
+   "scene": "lit",
+   "at": 2742,
+   "tempo": 1.08,
+   "end": 2804
+  },
+  {
+   "id": "b14c_profit",
+   "scene": "profit",
+   "at": 2822,
+   "tempo": 1.08,
+   "end": 2946
+  },
+  {
+   "id": "b15v2_whistle",
+   "scene": "ending",
+   "at": 2990,
+   "tempo": 1,
+   "end": 3062
+  },
+  {
+   "id": "b16v2_wanted",
+   "scene": "ending",
+   "at": 3095,
+   "tempo": 1.08,
+   "end": 3151
+  },
+  {
+   "id": "b17_going",
+   "scene": "ending",
+   "at": 3153,
+   "tempo": 1.08,
+   "end": 3200
+  },
+  {
+   "id": "b18v2_league",
+   "scene": "ending",
+   "at": 3201,
+   "tempo": 1.08,
+   "end": 3372
+  },
+  {
+   "id": "b19_lights",
+   "scene": "ending",
+   "at": 3381,
+   "tempo": 1.08,
+   "end": 3494
+  }
+ ],
+ "marks": {
+  "routine.open": 55,
+  "routine.pay": 120,
+  "routine.transfer": 149,
+  "routine.leave": 187,
+  "darkmap.built": 40,
+  "darkmap.two": 221,
+  "ads.swipe": 170,
+  "question.to": 95,
+  "light.so": 164,
+  "light.made": 224,
+  "calendar.kick": 102,
+  "name.inside": 89,
+  "predict.exactly": 73,
+  "predict.goals": 113,
+  "boost.every": 148,
+  "boost.climb": 214,
+  "boost.discover": 260,
+  "crowd.players": 56,
+  "crowd.made": 146,
+  "crowd.predictions": 173,
+  "habit.uplift": 42,
+  "habit.because": 125,
+  "lit.found": 19,
+  "profit.amount": 62,
+  "ending.then": 9,
+  "ending.whistle": 57,
+  "ending.but": 114,
+  "ending.going": 196,
+  "ending.league": 229,
+  "ending.months": 333,
+  "ending.ended": 429,
+  "ending.lights": 477
+ },
+ "captions": [
+  [
+   "Every day, people open their banking app.",
+   9,
+   112
+  ],
+  [
+   "They pay. They transfer. They leave.",
+   110,
+   224
+  ],
+  [
+   "We had built more than [X] products and services.",
+   236,
+   342
+  ],
+  [
+   "But for many of our customers, the app was just *two* of them: payments and transfers.",
+   351,
+   534
+  ],
+  [
+   "The usual fix? More advertising.",
+   535,
+   640
+  ],
+  [
+   "But people have learned to *swipe it away*.",
+   657,
+   750
+  ],
+  [
+   "People don't look for products.",
+   919,
+   994
+  ],
+  [
+   "They look for what they *love*.",
+   996,
+   1064
+  ],
+  [
+   "The biggest passion on Earth was about to kick off.",
+   1169,
+   1303
+  ],
+  [
+   "For ninety minutes, a whole country agrees on one thing.",
+   1302,
+   1442
+  ],
+  [
+   "Strangers hug. Grown men cry.",
+   1448,
+   1556
+  ],
+  [
+   "Nobody has to be told to watch.",
+   1552,
+   1640
+  ],
+  [
+   "So we put the World Cup... *inside the bank*.",
+   1642,
+   1764
+  ],
+  [
+   "Predict every score. Get it exactly right?",
+   1760,
+   1868
+  ],
+  [
+   "_[X] goals_.",
+   1864,
+   1941
+  ],
+  [
+   "Then, the twist.",
+   1940,
+   2002
+  ],
+  [
+   "Selected bank products became a way to score, every single day...",
+   1998,
+   2137
+  ],
+  [
+   "So to climb the table, you had to *discover the bank*.",
+   2133,
+   2247
+  ],
+  [
+   "Climb the table. Win real prizes.",
+   2243,
+   2346
+  ],
+  [
+   "It paid off.",
+   2342,
+   2401
+  ],
+  [
+   "*Because they wanted to*.",
+   2690,
+   2743
+  ],
+  [
+   "They found *the rest of the bank*, too.",
+   2739,
+   2822
+  ],
+  [
+   "Then... the final whistle.",
+   2987,
+   3080
+  ],
+  [
+   "But the players *wanted more*!",
+   3092,
+   3158
+  ],
+  [
+   "So we *kept going*.",
+   3154,
+   3218
+  ]
+ ]
+}

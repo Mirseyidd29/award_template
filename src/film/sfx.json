@@ -1,0 +1,90 @@
+{
+ "note": "Film B sound effects (ElevenLabs). 'npm run el -- sfx --film=b' makes all that are missing into public/sfx/b/. The mix falls back to synthesised sounds for any file not there yet.",
+ "sounds": [
+  {
+   "id": "flood_on",
+   "seconds": 3.0,
+   "prompt": "A huge stadium floodlight switching on at night: a heavy electrical contactor slamming shut with a deep metallic clunk, then a rising electrical hum as the lamp powers up. Close, dry, cinematic, no music"
+  },
+  {
+   "id": "flood_off",
+   "seconds": 2.5,
+   "prompt": "A huge stadium floodlight switching off at night: a heavy relay clunk, then the electrical hum dies away into silence. Close, dry, cinematic, no music"
+  },
+  {
+   "id": "relay_click",
+   "seconds": 0.8,
+   "prompt": "A single small industrial relay clicking on with a tiny electrical crackle, crisp and short, close"
+  },
+  {
+   "id": "relay_cascade",
+   "seconds": 3.0,
+   "prompt": "A rapid cascade of industrial relays and breakers clicking on one after another, ending with a power surge hum, cinematic"
+  },
+  {
+   "id": "breaker_slam",
+   "seconds": 2.0,
+   "prompt": "Massive power breakers slamming on in an empty stadium at night, deep booming metallic clunks with a long echo"
+  },
+  {
+   "id": "blackout",
+   "seconds": 4.0,
+   "prompt": "Stadium floodlights shutting down one by one: heavy clunks in sequence, electrical hum winding down, then echoing silence"
+  },
+  {
+   "id": "lamp_warm",
+   "seconds": 3.0,
+   "prompt": "A metal-halide lamp warming up: a soft rising electrical whine and gentle buzz getting brighter, subtle, close"
+  },
+  {
+   "id": "phone_tap",
+   "seconds": 0.5,
+   "prompt": "A single soft tap on a smartphone glass screen with a subtle haptic click, close-up, quiet room"
+  },
+  {
+   "id": "phone_wake",
+   "seconds": 1.2,
+   "prompt": "A smartphone screen gently waking up in a silent dark room, a very soft airy electronic swell"
+  },
+  {
+   "id": "notif",
+   "seconds": 0.8,
+   "prompt": "A short modern smartphone push notification chime, clean, soft, two notes"
+  },
+  {
+   "id": "swipe",
+   "seconds": 0.7,
+   "prompt": "A quick finger swipe dismissing a phone notification, short airy swoosh"
+  },
+  {
+   "id": "scoreboard",
+   "seconds": 3.0,
+   "prompt": "A stadium LED scoreboard powering on: a crackling sweep of tiny relays clicking left to right, ending in a bright electrical tone"
+  },
+  {
+   "id": "message_pop",
+   "seconds": 0.6,
+   "prompt": "A soft chat message bubble pop from a modern messenger app, gentle"
+  },
+  {
+   "id": "counter",
+   "seconds": 2.5,
+   "prompt": "A fast digital counter rolling up with soft rapid mechanical ticking, ending with a single click"
+  },
+  {
+   "id": "crowd_far",
+   "seconds": 6.0,
+   "prompt": "A distant football crowd roaring inside a stadium at night, heard from far away, warm and muffled"
+  },
+  {
+   "id": "deep_impact",
+   "seconds": 2.5,
+   "prompt": "A deep cinematic sub-bass impact with a long dark tail, trailer hit, clean, no music"
+  },
+  {
+   "id": "whoosh_soft",
+   "seconds": 1.5,
+   "prompt": "A slow soft cinematic air whoosh passing by, subtle and smooth"
+  }
+ ]
+}

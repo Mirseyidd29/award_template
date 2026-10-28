@@ -1,0 +1,145 @@
+{
+ "note": "Narration. Each line starts at 'offset' seconds into 'scene' (see src/film/timeline.ts). [brackets] are ElevenLabs delivery cues. [X] marks a placeholder figure: write the real figure in words before generating the voice. After new takes, run scripts/sync.py (see README.md).",
+ "voice": "bill",
+ "candidates": {
+  "bill": "pqHfZKP75CvOlQylNhV4",
+  "roger": "CwhRBWXzGAHq8TQ4Fs17",
+  "chris": "iP95p4xoKVk53GoZ742B"
+ },
+ "model": "eleven_v4",
+ "voiceSettings": {
+  "stability": 0.4,
+  "similarity_boost": 0.8,
+  "style": 0.45,
+  "speed": 1.0
+ },
+ "sampleText": "Every day, people open their banking app. They pay. They transfer. They leave.",
+ "lines": [
+  {
+   "id": "b01_routine",
+   "scene": "routine",
+   "offset": 0.4,
+   "text": "Every day, people open their banking app. [short pause] They pay. They transfer. They leave."
+  },
+  {
+   "id": "b02_products",
+   "scene": "darkmap",
+   "offset": 3.4,
+   "text": "We had built more than [X] products and services. [pause] But for many of our customers, the app was just two of them: payments and transfers."
+  },
+  {
+   "id": "b03_ads",
+   "scene": "ads",
+   "offset": 0.5,
+   "text": "The usual fix? More advertising. [sighs] But people have learned to swipe it away."
+  },
+  {
+   "id": "b04_question",
+   "scene": "question",
+   "offset": 0.4,
+   "text": "[thoughtful] So how do you introduce a bank... to people who aren't looking?"
+  },
+  {
+   "id": "b05_passion",
+   "scene": "light",
+   "offset": 1.2,
+   "text": "People don't look for products. [pause] They look for what they love. [confident] So we found their passion... and made it a game."
+  },
+  {
+   "id": "b06v2_kickoff",
+   "scene": "calendar",
+   "offset": 0.5,
+   "text": "The biggest passion on Earth was about to kick off."
+  },
+  {
+   "id": "b07_country",
+   "scene": "montage",
+   "offset": 0.3,
+   "text": "[warmly] For ninety minutes, a whole country agrees on one thing. [pause] Strangers hug. Grown men cry. [pause] Nobody has to be told to watch."
+  },
+  {
+   "id": "b08_inside",
+   "scene": "name",
+   "offset": 1.2,
+   "text": "So we put the World Cup... inside the bank."
+  },
+  {
+   "id": "b09v3_predict",
+   "scene": "predict",
+   "offset": 0.4,
+   "text": "Predict every score. Get it exactly right? [X] goals."
+  },
+  {
+   "id": "b10v2_twist",
+   "scene": "boost",
+   "offset": 0.4,
+   "text": "Then, the twist. Selected bank products became a way to score, every single day... so to climb the table, you had to discover the bank."
+  },
+  {
+   "id": "b11_climb",
+   "scene": "climb",
+   "offset": 0.6,
+   "text": "Climb the table. Win real prizes."
+  },
+  {
+   "id": "b12v3_players",
+   "scene": "crowd",
+   "offset": 0.4,
+   "text": "It paid off. [X] players..."
+  },
+  {
+   "id": "b12b_predictions",
+   "scene": "crowd",
+   "offset": 0.2,
+   "text": "...made [X] predictions."
+  },
+  {
+   "id": "b13v2_opens",
+   "scene": "habit",
+   "offset": 0.4,
+   "text": "They opened the app [X] percent more every day... because they wanted to."
+  },
+  {
+   "id": "b14v2_found",
+   "scene": "lit",
+   "offset": 0.5,
+   "text": "They found the rest of the bank, too."
+  },
+  {
+   "id": "b14c_profit",
+   "scene": "profit",
+   "offset": 0.3,
+   "text": "Profit from players: [X] manat."
+  },
+  {
+   "id": "b15v2_whistle",
+   "scene": "ending",
+   "offset": 0.4,
+   "text": "Then... the final whistle."
+  },
+  {
+   "id": "b16v2_wanted",
+   "scene": "ending",
+   "offset": 4.4,
+   "text": "But the players wanted more!"
+  },
+  {
+   "id": "b17_going",
+   "scene": "ending",
+   "offset": 6.3,
+   "text": "[confident] So we kept going."
+  },
+  {
+   "id": "b18v2_league",
+   "scene": "ending",
+   "offset": 7.4,
+   "text": "The ABB PLAY Master League. [X] months. [X] matches."
+  },
+  {
+   "id": "b19_lights",
+   "scene": "ending",
+   "offset": 12.4,
+   "text": "The World Cup ended. [pause] The lights stayed on."
+  }
+ ]
+}
